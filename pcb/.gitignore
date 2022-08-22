@@ -1,0 +1,4 @@
+# KiCAD 6.0 .gitignore
+
+# backup directory
+eink_driver-backups/
