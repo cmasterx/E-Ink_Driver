@@ -2,3 +2,6 @@
 
 # backup directory
 eink_driver-backups/
+
+# backup files
+*-bak*

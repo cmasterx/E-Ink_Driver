@@ -361,7 +361,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "ATL"
+    ]
   },
   "meta": {
     "filename": "eink_driver.kicad_pro",
@@ -445,6 +447,10 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
+    ],
+    [
+      "16a6e208-cf2a-4cac-ab03-5d075e8d8b69",
+      "Voltage Regulators"
     ]
   ],
   "text_variables": {}
